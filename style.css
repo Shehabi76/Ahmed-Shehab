@@ -1,0 +1,62 @@
+Header{
+  background: linear-gradient(to left,blue,lightblue);
+}
+
+header {
+  padding: 60px;
+  margin-bottom: 20px;
+  border: 60px lightblue;
+}
+table {border-collapse:
+  collapse;
+  width:70%;
+  height:30%;
+  font-size: 20px;
+ text-alighn:center;
+margin-bottom:50px;
+  margin-left:auto;
+  margine-right:50px;
+border:200px blue;
+ background-color: lightgrey;
+}
+
+h1 {font-family:segoe ui, arial,time new roman;
+font-size: 50px;
+letter-spacing: 3px;
+color: grey;
+font-weight: bold;
+text-align: center;
+background-color: lightgrey;
+border:2px solid black;
+}
+
+nav {border: 2px solid black;
+background-color: lightblue;
+ text-align: center; 
+ display: flex;
+  justify-content: center;
+}
+
+
+
+ul {disply: inline-block;
+margin: 0;
+padding: 0;
+gap:20px;
+}
+
+a{text-decoration:none;
+letter-spacing: 2px;
+color: blue;
+ font-family: times new roman, arial;
+  font-size: 18px;
+disply: flex;
+justify-content:center;
+  gap:20px;
+}
+
+h2 {font-family:segoe
+ui, arial;
+margin: 10px;
+padding: 10px;}
+  
